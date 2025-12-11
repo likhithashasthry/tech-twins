@@ -55,7 +55,8 @@ The water need is calculated by first determining the Reference Evapotranspirati
 3.  **Run Decision Logic:** Evaluate E.T. and Soil Moisture (SM) Deficit, and then perform a Rain Check.
 4.  **System Communication:** Proactive notification sent to the user (Email/SMS) via their preferred channel with the decision (e.g., **WATERING SKIPPED** or watering command).
 
-<img src ="Screenshot(3).png" alt= "Create your account" />
+
+<img src ="D:\waterManagement\Tech_twins\images\Screenshot(3).png" alt= "Create your account" />
 
 <img src ="2.png" alt= "Create your account 2" />
 
