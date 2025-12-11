@@ -58,7 +58,7 @@ The water need is calculated by first determining the Reference Evapotranspirati
 
 <img src ="D:\waterManagement\Tech_twins\images\Screenshot(3).png" alt= "Create your account" />
 
-<img src ="2.png" alt= "Create your account 2" />
+<img src ="https://github.com/likhithashasthry/tech-twins/blob/main/2.png" alt= "Create your account 2" />
 
 <img src ="/inages/Screenshot(4).png" alt= "Login page" />
 
