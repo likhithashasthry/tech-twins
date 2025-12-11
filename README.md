@@ -60,7 +60,7 @@ The water need is calculated by first determining the Reference Evapotranspirati
 
 <img src ="2.png" alt= "Create your account 2" />
 
-<img src ="Screenshot(4).png" alt= "Login page" />
+<img src ="/inages/Screenshot(4).png" alt= "Login page" />
 
 ##  Future Scope
 The Intelligent Irrigation Scheduler has a significant future scope in **Scaling Precision for Sustainable Agriculture**.
