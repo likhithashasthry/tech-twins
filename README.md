@@ -56,19 +56,19 @@ The water need is calculated by first determining the Reference Evapotranspirati
 4.  **System Communication:** Proactive notification sent to the user (Email/SMS) via their preferred channel with the decision (e.g., **WATERING SKIPPED** or watering command).
 
 
-<img src ="D:\waterManagement\Tech_twins\images\Screenshot(3).png" alt= "Create your account" />
+<img src ="https://github.com/likhithashasthry/tech-twins/blob/main/Screenshot%20(3).png" alt= "Create your account" />
 
 <img src ="https://github.com/likhithashasthry/tech-twins/blob/main/2.png" alt= "Create your account 2" />
 
-<img src ="/inages/Screenshot(4).png" alt= "Login page" />
+<img src ="https://github.com/likhithashasthry/tech-twins/blob/main/Screenshot%20(4).png" alt= "Login page" />
 
 ##  Future Scope
 The Intelligent Irrigation Scheduler has a significant future scope in **Scaling Precision for Sustainable Agriculture**.
 
-<img src ="Screenshot(5).png" alt= "Main Dashboard" />
+<img src ="https://github.com/likhithashasthry/tech-twins/blob/main/Screenshot%20(5).png" alt= "Main Dashboard" />
 
 * **Groundwater Conservation:** By preventing over-irrigation and eliminating "insurance watering," the tool directly helps slow the rate of groundwater decline, securing the resource for future generations.
 * **Smart Farm Integration:** The tool can act as the central **Decision-Making Engine** for a fully Smart Farm.
 * **Precision Agriculture:** It can integrate seamlessly with other technologies like **drones, soil chemistry sensors, and automated harvesting systems**, moving farming toward full precision agriculture.
 
-<img src ="7.png" alt= "settings" />
+<img src ="https://github.com/likhithashasthry/tech-twins/blob/main/7.png" alt= "settings" />
